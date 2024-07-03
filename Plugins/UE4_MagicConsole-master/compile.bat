@@ -1,0 +1,1 @@
+D:\Unreal\UE_4.27\Engine\Build\BatchFiles\RunUAT.bat BuildPlugin -Plugin=D:\Unreal\Plugins\MagicConsole\Plugins\ConsoleEnhanced\ConsoleEnhanced.uplugin -Package=D:\Unreal\Plugins\MagicConsole\Packaged\EnhancedOutputLog -Rocket
